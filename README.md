@@ -1,3 +1,3 @@
 # LittlWebServices
 
-A description of this package.
+A Swift package for interfacing with the Littlnotes REST API.
